@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  background: #7fe;
 }
 
 body {
@@ -8,6 +7,9 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("../img/conference-room-with-green-yellow-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 input,
@@ -25,7 +27,10 @@ textarea {
 
 .app-header__title {
   margin: 10px 20px 0px;
-  font-family: Arial, sans-serif;
+  font-family: fantasy;
+  font-size: 45px;
+  font-weight: bolder;
+  color: azure;
 }
 
 .app-header__controls {
