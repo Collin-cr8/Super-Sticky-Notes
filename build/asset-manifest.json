@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Super-Sticky-Notes/static/css/main.2475ebf8.css",
+    "main.css": "/Super-Sticky-Notes/static/css/main.7e085d13.css",
     "main.js": "/Super-Sticky-Notes/static/js/main.b5a96e8f.js",
+    "static/media/conference-room-with-green-yellow-wallpaper.jpg": "/Super-Sticky-Notes/static/media/conference-room-with-green-yellow-wallpaper.25d2d71c82a9fe144712.jpg",
     "index.html": "/Super-Sticky-Notes/index.html",
-    "main.2475ebf8.css.map": "/Super-Sticky-Notes/static/css/main.2475ebf8.css.map",
+    "main.7e085d13.css.map": "/Super-Sticky-Notes/static/css/main.7e085d13.css.map",
     "main.b5a96e8f.js.map": "/Super-Sticky-Notes/static/js/main.b5a96e8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2475ebf8.css",
+    "static/css/main.7e085d13.css",
     "static/js/main.b5a96e8f.js"
   ]
 }
