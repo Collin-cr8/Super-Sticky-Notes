@@ -7,10 +7,11 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("../img/conference-room-with-green-yellow-wallpaper.jpg"),repeat;
+  background-image: url("../img/conference-room-with-green-yellow-wallpaper.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: rgba(128, 128, 128, 0.836);
 }
 
 input,
